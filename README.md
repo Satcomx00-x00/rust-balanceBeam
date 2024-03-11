@@ -1,4 +1,4 @@
-# ust-balanceBeam
+# Rust-balanceBeam
 
 Gouraud Elie
 
